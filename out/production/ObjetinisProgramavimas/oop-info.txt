@@ -1,0 +1,2 @@
+koks skirtumas tarp abstraction ir interface?
+klase kuri saugo metodo headerius
